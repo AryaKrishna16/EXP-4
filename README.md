@@ -36,16 +36,38 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
+<img width="770" height="426" alt="Screenshot 2026-03-20 111919" src="https://github.com/user-attachments/assets/eba181d6-f46f-4c4f-b54f-0e2de8057507" />
+<img width="741" height="363" alt="Screenshot 2026-03-20 111944" src="https://github.com/user-attachments/assets/a5bb4491-328e-4fa1-8f70-0859308cc7a7" />
 
-Bridge rectifier with filter:
+
+
+Full wave rectifier with and without filter:
+<img width="734" height="473" alt="Screenshot 2026-03-20 111955" src="https://github.com/user-attachments/assets/4b3464ad-4811-4992-81ba-85718fcc59d6" />
+<img width="706" height="412" alt="Screenshot 2026-03-20 112003" src="https://github.com/user-attachments/assets/b1b90eca-2a60-4d86-8a97-9690eda28284" />
+
+
+
+
+
 
 TABULAR COLUMN
-Rectifier without filter
+Half wave rectifier
+![WhatsApp Image 2026-03-20 at 11 11 22 (1)](https://github.com/user-attachments/assets/cc431cd6-8099-4b17-81aa-0f4d5d2e0e8d)
+
+
+ 
 TABULAR COLUMN
-Rectifier with filter
+Full wave rectifier
+![WhatsApp Image 2026-03-20 at 11 11 22](https://github.com/user-attachments/assets/d6b998a2-bf1d-4926-8844-94a7070b320b)
+
 
 WAVEFORM:
+
+Half wave rectifier
+![WhatsApp Image 2026-03-20 at 11 11 20](https://github.com/user-attachments/assets/5071d444-98dc-486f-a2de-719cdfeb00a9)
+Full wave rectifier 
+![WhatsApp Image 2026-03-20 at 11 11 21](https://github.com/user-attachments/assets/bcd79698-f2bc-468e-b832-e786d204015f)
 
 
 RESULT:
